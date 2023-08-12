@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac68846a-bbf3-4640-ba05-299cb7b3c115"
+      }
+    },
+    "owner": "garrettprince"
   }
 }
